@@ -1,4 +1,4 @@
-<img width="390" height="78" alt="433126399-050c4b24-a847-43ee-9a48-b1264d2540ad" src="https://github.com/user-attachments/assets/ec7f726c-6472-4296-b491-63deb89150dc" /><img width="515" height="223" alt="433122791-4a2d9ffc-9326-45a3-9af1-d8182eb970eb" src="https://github.com/user-attachments/assets/1ea61dd4-9729-4294-8798-b98f99dab1c1" /><img width="372" height="137" alt="433122742-e9dff7b1-4c1a-4757-8157-3ad38e0687fb" src="https://github.com/user-attachments/assets/04be12cd-786a-4cc4-9a44-13e74dba67a6" /><img width="379" height="115" alt="image" src="https://github.com/user-attachments/assets/a7e1664c-e29c-4797-afb9-bb940a99a3e0" /><img width="519" height="369" alt="image" src="https://github.com/user-attachments/assets/30cc6d13-e83e-423c-990b-9f744fffc061" /># OS-Linux-commands-Shell-scripting
+ # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
